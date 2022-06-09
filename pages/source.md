@@ -3,6 +3,9 @@ title: Source
 layout: about
 permalink: /source.html
 ---
+
+{% include feature/jumbotron.html objectid="coll001" %}
+
 {% include feature/nav-menu.html sections="Source; Distribution of the Archives" %}
 
 ## Source

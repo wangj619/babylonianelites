@@ -3,6 +3,8 @@ title: Methodology
 layout: about
 permalink: /methodology.html
 ---
+{% include feature/jumbotron.html objectid="coll001" %}
+
 {% include feature/nav-menu.html sections="Methodology; Applying SNA to Cuneiform Archives" %}
 
 ## Methodology
