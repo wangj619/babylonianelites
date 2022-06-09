@@ -17,10 +17,12 @@ The family archives consist of contracts and court documents, sometimes letters.
 
 {% include feature/card.html text="[1/3(?)] mina 6 1/2 shekels [of white silver belonging to Ina]-Esagil-ramat, daughter of Balaṭu, descendant of Egibi, is the debt of [Iq]iša-Marduk, son of Nabu-balassu-iqbi, [descendant of] Nappahu. In the month of Ululu he will pay the 1/3(?) mina 6 1/2 shekels of silver. Witnesses: Bel-iddin, son of Nadin-ahi, descendant of Maštukku; Remutu, son of Šulaya, descendant of Baʾiru; Nabu-mukin-zeri, son of Mušallim-Marduk, descendant of Nappahu; [Mušallim-Marduk], scribe, son [of Š]uzubu, [descendant of Kanik-babi]. Babylon, [19th(?) day of] Abu, [2nd(?) year of] Dari[us, king of Babylon, king of the lands]. (VAT 518)" header="Example text" width="50" centered=true %}
 
-From this text, we can get data like this. This form is made through the website Prosobab. So we have seven persons attested in this text. We can omit the king, because he did not actually participate in the network. His name was just used in the date. Therefore, we have six persons. Each of them is connected with others in this text.
+From this text, we can get data like this. This form is made through the website [Prosobab](https://prosobab.leidenuniv.nl/index.php). So we have seven persons attested in this text. We can omit the king, because he did not actually participate in the network. His name was just used in the date. Therefore, we have six persons. Each of them is connected with others in this text.
 
 {% include feature/image.html objectid="/assets/img/prosobabdata.jpg" width="50" %}
 
 Importing the data into the software Gephi, we can have a network like this.
 
 {% include feature/image.html objectid="/assets/img/sixpersons.jpg" width="50" %}
+
+Tutorials of applying SNA for cuneiform archives can be found in the website [Archives in Context](http://persiababylonia.org/archives/).
